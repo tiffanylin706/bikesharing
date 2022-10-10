@@ -3,7 +3,7 @@ Create worksheets, dashboards and stories to visualize data using Tableau.
 
 ## Overview
 
-![Citi_Bike_image]()
+![Citi_Bike_image](https://github.com/tiffanylin706/bikesharing/blob/a03624df7c6616dec50d96edc543dd8816f21dea/images/Citi-Bike.png)
 
 The purpose of this analysis is to provide a business proposal that can convince investors that developing a bike-sharing program in Des Moines is a profitable venture. Throughout the process, the data we use is publicly available from the NYC CitiBike program [archives](https://s3.amazonaws.com/tripdata/index.html) and `Tableau` to create visualizations. 
 
